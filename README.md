@@ -14,7 +14,7 @@ Completed a data analytics job simulation by Deloitte, focusing on solving real-
 - Created visualizations for insights  
 
 ## 📷 Dashboard Preview
-[View Dashboard](dashboard%201.pdf)
+[View Dashboard](dashboard.pdf)
 
 ## 📄 Files Included
 - Dashboard (PDF)
